@@ -12,4 +12,7 @@ plataforma de docencia virtual de la Universidad de Jaén. El cliente y el servi
 ejecución, cuya solución es parte de la presenta práctica. 
 Para profundizar en el conocimiento sobre las primitivas Sockets y este tipo de aplicaciones de comunicaciones, al código entregado se le deberán hacer diversas 
 modificaciones para añadirle un nuevo servicio basado en un sencillo protocolo de aplicación. 
-La práctica se estructurará en una serie de tareas distribuidas entre las diferentes sesiones de laboratorio establecidas para la práctica. 
+La práctica se estructurará en una serie de tareas distribuidas entre las diferentes sesiones de laboratorio establecidas para la práctica.
+
+## Cliente TCP
+Este cliente envía el nuevo comando a implementar de manera fija deliberadamente para que se pueda probar el servidor. Se le debe añadir la funcionalidad necesaria para que el usuario pueda interactuar con el servicio y se procese la respuesta del servidor.
