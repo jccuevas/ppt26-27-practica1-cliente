@@ -169,6 +169,7 @@ int main(int* argc, char* argv[])
 							// dayint = atoi(day)
 
 							// Validar sala
+							//cambio
 
 							// Validar día
 
